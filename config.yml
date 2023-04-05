@@ -1,0 +1,9 @@
+paths:
+  tesseract_installer :
+  sample_image_for_OCR : 
+  export_directory : '/Users/praveen106.kumar/Documents/Streamlit/exports'
+  file_path : 'data/Anomaly_2023-03-10.xlsx'
+
+
+my_id : praveen106.kumar
+
